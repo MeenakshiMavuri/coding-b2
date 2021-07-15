@@ -1,0 +1,18 @@
+import java.util.*;
+public class Stringcontains {
+public static boolean containsString(String s1,String s2) {
+boolean result=false;
+result=s1.contains(s2);
+returns result;
+}
+{
+public static void main(String args[])
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the first string:");
+String str1=sc.next();
+System.out.println("enter the second string:");
+String str2=sc.next();
+boolean result=contains String(str1,str2)
+System.out.println(result);
+}
